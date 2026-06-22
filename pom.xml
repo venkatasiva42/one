@@ -1,3 +1,5 @@
+//lineno38 should be changed as per the live nexus artifact repository//
+
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
@@ -33,7 +35,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://44.202.251.20:8081/repository/flm-releases/</url>
+		    <url>http://44.220.164.161:8081/repository/webapplication/</url>
 		</repository>
   	</distributionManagement>
 	
